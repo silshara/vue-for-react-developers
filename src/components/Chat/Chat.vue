@@ -34,7 +34,7 @@ provide("userId", userId);
 <template>
   <CenterOnPage>
     <div class="chat shadow-2">
-    <h2>Nilushi Silshara</h2>
+    <h3>Vue.js Chat App</h3>
       <div ref="messageListElement" class="message-list">
         <!-- Iterate over elements with v-for -->
         <ChatMessage

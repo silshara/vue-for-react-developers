@@ -1,7 +1,13 @@
 // "Previous" messages in the chat
 export default [
   {
-    content: "Hello this is tech support",
+    content: "Hello Nilushi Werahara Arachchige!",
+    type: "text",
+    senderId: 1234,
+    timestamp: new Date("2022-01-26T11:37:12.947Z"),
+  },
+  {
+    content: "this is tech support",
     type: "text",
     senderId: 1234,
     timestamp: new Date("2022-01-26T11:37:22.947Z"),
